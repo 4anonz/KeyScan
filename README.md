@@ -18,7 +18,7 @@ It should be highly noted that this tool wasn't made with the intention to make 
 * Shell features ❌️
 
 # How does it work.?!
-In this repository, the folder [keyscan] (keyscan) contains the source codes that needs to be compiled before sending it to the victim. Just install the requirements and KeyScan will automatically compile it for you.!!
+In this repository, the folder [keyscan](keyscan) contains the source codes that needs to be compiled before sending it to the victim. Just install the requirements and KeyScan will automatically compile it for you.!!
 When the victim opens the malicious executable file, the window will be invisible to the victim and the program will also make itself hidden (meaning it will make the executable file hidden). At the other side the attacker will be waiting for the victim to open the file, after opened, then a session is opened.
 
 # Platforms
@@ -27,8 +27,9 @@ When the victim opens the malicious executable file, the window will be invisibl
 * Termux (Android) ✅️
 
 # Screenshots
-![test] (screenshots/keyscan.png)
-![keyscan] (screenshots/keyscan3.PNG)
+![test](screenshots/keyscan.png)
+![keyscan](screenshots/keyscan3.PNG)
+
 # Requirements
 * GCC and MingWG on Linux and Termux
 * MingWG on Windows
@@ -111,8 +112,8 @@ mouse_click right
 # Author
 Anonymous Hacks(4anoz) - I'm White Hat😎️.
 # Bugs Feedback & Suggestions
-Please reports any bugs found, you can personally send me [email] (digitalguru64@gmail.com)
-Or [facebook] (https://facebook.com/4anonz)
+Please reports any bugs found, you can personally send me [email](digitalguru64@gmail.com)
+Or [facebook](https://facebook.com/4anonz)
 
 # Other repositories
 DDoS script: https://github.com/4anonz/Flood
