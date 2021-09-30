@@ -26,6 +26,8 @@ When the victim opens the malicious executable file, the window will be invisibl
 * Windows ✅️
 * Termux (Android) ✅️
 
+# Screenshots
+[!test] (screenshots/keyscan.png)
 # Requirements
 * GCC and MingWG on Linux and Termux
 * MingWG on Windows
@@ -50,10 +52,10 @@ sudo apt-get install mingw-w64
 ```
 And on termux using:
 ```
-git clone https://github.com/mirror/mingw-w64.git;
-cd mingw-w64\n";
-./configure --prefix=$PREFIX --without-crt;
-DESTDIR=$PREFIX make install;
+git clone https://github.com/mirror/mingw-w64.git
+cd mingw-w64
+./configure --prefix=$PREFIX --without-crt
+DESTDIR=$PREFIX make install
 ```
 # How to use KeyScan?.
 Set the local ip and port number using these commands.
