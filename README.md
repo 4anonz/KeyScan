@@ -27,7 +27,7 @@ When the victim opens the malicious executable file, the window will be invisibl
 * Termux (Android) ✅️
 
 # Screenshots
-![test](screenshots/keyscan.png)
+![test](screenshots/keyscan2.png)
 ![keyscan](screenshots/keyscan3.PNG)
 
 # Requirements
