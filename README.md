@@ -31,8 +31,8 @@ When the victim opens the malicious executable file, the window will be invisibl
 ![keyscan](screenshots/keyscan3.PNG)
 
 # Requirements
-* GCC and MingWG on Linux and Termux
-* MingWG on Windows
+* GCC and mingw-w64 on Linux and Termux
+* MinGW on Windows
 
 # Installation on Linux and Termux
 ```
@@ -65,7 +65,7 @@ Set the local ip and port number using these commands.
 lhost ip
 lport port number
 ```
-Then type exploit and the program will generate the .exe file that needs shall be send to the victim.
+Then type exploit and the program will generate the .exe file that needs be send to the victim.
 # KeyScan Commands
 ```
 SETTING OPTIONS: Set this options before lauching the attack!
