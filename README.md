@@ -6,12 +6,12 @@ Before you keep on reading please support my hard work by leaving a star and fol
 It should be highly noted that this tool wasn't made with the intention to make or cause any damages or any illegal usage. By using KeyScan you accept that you'll be held responsible for improper usage and not the author.
 
 # Features
-* The program can bypass any antivirus including windows 10 and windows 11 defender ✅️.
+* The program runs just like every other programs so no need to bypass any antivirus software or window defender ✅️.
 * Control keyboard remotely ✅️.
 * Control mouse remotely ✅️.
 * Keylogging ✅️.
 * Automatically hide the exe file on first run ✅️
-* Invisible ✅️
+* The window is hidden to victim but still visible in the task manager.  ✅️
 
 # Features working on
 * SSL/TLS ❌️
@@ -38,12 +38,12 @@ When the victim opens the malicious executable file, the window will be invisibl
 ```
 git clone https://github.com/4anonz/KeyScan.git
 cd KeyScan
-g++ main.cpp -o keyscan
+g++ main.cpp -o keyscn
 ./keyscan
 ```
 # Installation on Windows
 ```
-g++ main.cpp -o keyscan.exe -lws2_32
+g++ main.cpp -o keyscn.exe -lws2_32
 .\keyscan.exe
 ```
 # Sending the exe file to the victim
