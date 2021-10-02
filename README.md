@@ -112,7 +112,7 @@ mouse_click right
 # Author
 Anonymous Hacks(4anoz) - I'm White Hat😎️.
 # Bugs Feedback & Suggestions
-Please reports any bugs found, you can personally send me [email](digitalguru64@gmail.com)
+Please reports any bugs found, you can personally send me <a href="mailto:digitalguru64@gmail.com" target="_blank">email</a>
 Or [facebook](https://facebook.com/4anonz)
 
 # Other repositories
