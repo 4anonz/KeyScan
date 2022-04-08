@@ -1,5 +1,5 @@
 # KeyScan
-KeyScan is a C++ open source explanation tool targeting windows operating system. it allows you to send keyboard events, mouse events and capture keystrokes (keylogger).!
+KeyScan is a C++ open source tool targeting windows operating system. it allows you to send keyboard events, mouse events and capture keystrokes (keylogger).!
 
 Before you keep on reading please support my hard work by leaving a star and follow up if you want me to keep creating hacking tools like this.!!
 # Disclaimer
